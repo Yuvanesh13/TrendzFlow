@@ -1,0 +1,24 @@
+
+body {
+  background-color: #FDFDBD;
+}
+
+.homesec {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.logo{
+  height: 100px;
+
+ border-radius: 185px;
+
+}
+
+.Login{
+  margin-left: 50px;
+}
+
+.register{
+  background-color: #FDFDBD;
+}
